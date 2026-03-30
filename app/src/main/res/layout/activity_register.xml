@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Nombre"
                 android:textColor="#FFFFFF"
-                android:hintTextColor="#AAAAAA"
+                android:textColorHint="#AAAAAA"
                 android:background="#1A1A1A"
                 android:padding="12dp"
                 android:layout_marginTop="20dp"/>
@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Correo"
                 android:textColor="#FFFFFF"
-                android:hintTextColor="#AAAAAA"
+                android:textColorHint="#AAAAAA"
                 android:background="#1A1A1A"
                 android:padding="12dp"
                 android:layout_marginTop="10dp"/>
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Contraseña"
                 android:textColor="#FFFFFF"
-                android:hintTextColor="#AAAAAA"
+                android:textColorHint="#AAAAAA"
                 android:background="#1A1A1A"
                 android:padding="12dp"
                 android:inputType="textPassword"
